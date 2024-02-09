@@ -2,6 +2,8 @@
 
 ## An electronic card game
 
+This project was built in an academic setting.
+
 Intended usage and more details:
 - This application will allow the user to engage in a card game of Blackjack with the computer 
 - Like most betting-driven card games, this application will have a simple betting system in place that starts the user
